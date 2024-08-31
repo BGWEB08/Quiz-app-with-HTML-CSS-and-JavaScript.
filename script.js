@@ -2,9 +2,9 @@ const questions = [
     {
         question: "What is the world's most populated country?",
         answers: [
-            { text: "India", correct: false},
+            { text: "India", correct: true},
             { text: "USA", correct: false},
-            { text: "China", correct: true},
+            { text: "China", correct: false},
             { text: "Russia", correct: false},
         ]
     },
